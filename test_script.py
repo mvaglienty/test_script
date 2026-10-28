@@ -1,6 +1,6 @@
 """
 Script Name: Test Script
-Script Version: 1.0.0
+Script Version: 1.0.1
 Flame Version: 2025.1
 Written by: Me
 Creation Date: 01.15.25 
